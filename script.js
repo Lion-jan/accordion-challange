@@ -19,7 +19,7 @@ let FAQs = [
     },
     {
         question:'How many team members can I invite?',
-        answer:'No more than 2GB. All files in your account must fit yourallotted storage space.'
+        answer:'No more than 2GB. All files in your account must fit yourallotted storage space. lorem lorem ipsum dolor sit amete dolor sit ipsum dolor sit amet amet dolor sit ipsum dolor sit amet'
     },
     {
         question:'How many team members can I invite?',
